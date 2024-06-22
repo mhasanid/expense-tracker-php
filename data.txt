@@ -1,0 +1,67 @@
+[
+    {
+        "status": "income",
+        "category": "salary",
+        "amount": 20000
+    },
+    {
+        "status": "income",
+        "category": "salary",
+        "amount": 5000
+    },
+    {
+        "status": "expense",
+        "category": "rent",
+        "amount": 5000
+    },
+    {
+        "status": "income",
+        "category": "bonus",
+        "amount": 60000
+    },
+    {
+        "status": "expense",
+        "category": "shopping",
+        "amount": 3000
+    },
+    {
+        "status": "income",
+        "category": "gift",
+        "amount": 15000
+    },
+    {
+        "status": "expense",
+        "category": "travel",
+        "amount": 1200
+    },
+    {
+        "status": "expense",
+        "category": "travel",
+        "amount": 500
+    },
+    {
+        "status": "expense",
+        "category": "gas",
+        "amount": 1500
+    },
+    {
+        "status": "income",
+        "category": "farmimg",
+        "amount": 5000
+    },
+    {
+        "status": "expense",
+        "category": "buy",
+        "amount": 2500
+    },
+    {
+        "status": "income",
+        "category": "business",
+        "amount": 4500
+    },
+    {
+        "status": "expense",
+        "category": "rent",
+        "amount": 200
+    }
+]
